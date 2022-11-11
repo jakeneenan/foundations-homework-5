@@ -1,0 +1,1 @@
+This is a homework assignment for my foundations of computing class! Sorry if something is weird, I've never properly published a repo. I'll get better!
